@@ -1,0 +1,70 @@
+body{
+	background-image: url("homework/bg.jpg");
+	margin: 0px;
+}
+.header{
+ width: 100%;
+ height: 30px;
+ background: black;
+}
+.innerNav{
+	width: 75%;
+	height: 30px;
+	background: black;
+	margin: 0 auto;
+
+
+}
+.innerNavLeft{
+	float: 	left;	
+}
+
+.innerNavRight{
+	float: 	right;	
+}
+
+.innerNavLeft span{
+	font-size: 10px;
+	color: white;
+	margin: 0px;
+	display:block;
+	padding: 10px;
+
+
+}
+.innerNavRight ul {
+
+	list-style: none;
+	margin: 0;
+	display: inline-block;
+	padding: 5px;	
+
+
+
+}
+.innerNavRight ul li{
+	list-style: none;
+	font-size: 10px;
+	color: white;
+	display: inline-block;
+}
+.navigation{
+	width: 	75%;
+	height: 60px;
+	background: black;
+	margin: 0 auto;
+	margin-top: 15px;
+
+}
+.navLeft{
+	float: 	left;
+}
+.navRight{
+	float: 	right;
+}
+.navLeft span{
+	font-size: 30px;
+	color: 	white;
+	margin: 0;
+	padding: 10px;
+}
